@@ -1,0 +1,5 @@
+com/hdfs/HdfsUtil.class
+com/wordcount/WCReducer.class
+com/wordcount/WCRunner.class
+com/hbase/HbaseDao.class
+com/wordcount/WCMapper.class

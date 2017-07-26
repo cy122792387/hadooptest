@@ -1,0 +1,5 @@
+/home/cy/github/hadooptest/src/main/java/com/hbase/HbaseDao.java
+/home/cy/github/hadooptest/src/main/java/com/wordcount/WCRunner.java
+/home/cy/github/hadooptest/src/main/java/com/wordcount/WCMapper.java
+/home/cy/github/hadooptest/src/main/java/com/hdfs/HdfsUtil.java
+/home/cy/github/hadooptest/src/main/java/com/wordcount/WCReducer.java
