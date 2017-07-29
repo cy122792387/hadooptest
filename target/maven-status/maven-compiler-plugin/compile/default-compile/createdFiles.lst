@@ -1,5 +1,9 @@
+com/MRwordCount/WCMapper.class
 com/hdfs/HdfsUtil.class
-com/wordcount/WCReducer.class
-com/wordcount/WCRunner.class
+com/MRwordCount/WCRunner.class
+com/mrFlowSum/FlowSumReducer.class
+com/MRwordCount/WCReducer.class
+com/mrFlowSum/FlowSumRunner.class
 com/hbase/HbaseDao.class
-com/wordcount/WCMapper.class
+com/mrFlowSum/FlowSumMapper.class
+com/mrFlowSum/FlowBean.class

@@ -47,7 +47,7 @@ public class HdfsUtil {
     // listFiles列出的是文件信息，而且提供递归遍历
     RemoteIterator<LocatedFileStatus> files = fs.listFiles(new Path("/"), true);
 
-    while(files.hasNext()){
+    while (files.hasNext()) {
 
       LocatedFileStatus file = files.next();
       Path filePath = file.getPath();
@@ -60,10 +60,10 @@ public class HdfsUtil {
 
     //listStatus 可以列出文件和文件夹的信息，但是不提供自带的递归遍历
     FileStatus[] listStatus = fs.listStatus(new Path("/"));
-    for(FileStatus status: listStatus){
+    for (FileStatus status : listStatus) {
 
       String name = status.getPath().getName();
-      System.out.println(name + (status.isDirectory()?" is dir":" is file"));
+      System.out.println(name + (status.isDirectory() ? " is dir" : " is file"));
 
     }
   }

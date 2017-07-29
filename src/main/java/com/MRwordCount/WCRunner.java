@@ -39,7 +39,7 @@ public class WCRunner {
 
     //指定原数据路径 和 输出数据路径
     FileInputFormat.setInputPaths(wcjob, new Path("hdfs://localhost:9000/mr/wordCount/input"));
-    FileOutputFormat.setOutputPath(wcjob, new Path("hdfs://localhost:9000/mr/wordCount/output"));
+    FileOutputFormat.setOutputPath(wcjob, new Path("hdfs://localhost:9000/mr/wordCount/output1"));
 
     wcjob.waitForCompletion(true);
   }

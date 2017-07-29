@@ -1,5 +1,9 @@
+/home/cy/github/hadooptest/src/main/java/com/MRwordCount/WCReducer.java
+/home/cy/github/hadooptest/src/main/java/com/mrFlowSum/FlowBean.java
+/home/cy/github/hadooptest/src/main/java/com/mrFlowSum/FlowSumMapper.java
 /home/cy/github/hadooptest/src/main/java/com/hbase/HbaseDao.java
-/home/cy/github/hadooptest/src/main/java/com/wordcount/WCRunner.java
-/home/cy/github/hadooptest/src/main/java/com/wordcount/WCMapper.java
+/home/cy/github/hadooptest/src/main/java/com/MRwordCount/WCRunner.java
+/home/cy/github/hadooptest/src/main/java/com/MRwordCount/WCMapper.java
+/home/cy/github/hadooptest/src/main/java/com/mrFlowSum/FlowSumRunner.java
+/home/cy/github/hadooptest/src/main/java/com/mrFlowSum/FlowSumReducer.java
 /home/cy/github/hadooptest/src/main/java/com/hdfs/HdfsUtil.java
-/home/cy/github/hadooptest/src/main/java/com/wordcount/WCReducer.java
